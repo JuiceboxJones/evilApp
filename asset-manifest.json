@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/evilApp/static/css/main.f87db60f.css",
+    "main.js": "/evilApp/static/js/main.1b091bf2.js",
+    "static/js/496.0320d045.chunk.js": "/evilApp/static/js/496.0320d045.chunk.js",
+    "index.html": "/evilApp/index.html",
+    "main.f87db60f.css.map": "/evilApp/static/css/main.f87db60f.css.map",
+    "main.1b091bf2.js.map": "/evilApp/static/js/main.1b091bf2.js.map",
+    "496.0320d045.chunk.js.map": "/evilApp/static/js/496.0320d045.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f87db60f.css",
+    "static/js/main.1b091bf2.js"
+  ]
+}
